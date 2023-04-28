@@ -14,7 +14,6 @@ int count_letters(string text);
 int count_words(string text);
 int count_sentence(string text);
 
-
 int main(void)
 {
     string text = get_string("Text: ");
